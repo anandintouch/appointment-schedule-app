@@ -1,0 +1,17 @@
+{
+	"appointmentId": null,
+	"appointmentSlot": null,
+	"customer": {
+		"customerName": "Anand",
+		"totalAppointment": null
+	},
+	"status": null,
+	"reason": null,
+	"cancelReason": null,
+	"appointmentType": {
+		"appointmentTypeId": "1",
+		"appointmentServiceType": "TIER1:Maximize tax deductions and credits",
+		"duration": 45
+	},
+	"id": 1
+}

@@ -1,0 +1,76 @@
+    {
+        "appointmentId": 1,
+        "appointmentSlot": [
+            {
+                "timeSlot": [
+                    {
+                        "timeSlotId": 1,
+                        "startDate": "08:00",
+                        "endDate": "09:00"
+                    },
+                    {
+                        "timeSlotId": 2,
+                        "startDate": "09:00",
+                        "endDate": "10:00"
+                    },
+                    {
+                        "timeSlotId": 3,
+                        "startDate": "10:00",
+                        "endDate": "11:00"
+                    },
+                    {
+                        "timeSlotId": 4,
+                        "startDate": "11:00",
+                        "endDate": "12:00"
+                    },
+                    {
+                        "timeSlotId": 5,
+                        "startDate": "12:00",
+                        "endDate": "13:00"
+                    },
+                    {
+                        "timeSlotId": 6,
+                        "startDate": "13:00",
+                        "endDate": "14:00"
+                    },
+                    {
+                        "timeSlotId": 7,
+                        "startDate": "14:00",
+                        "endDate": "15:00"
+                    },
+                    {
+                        "timeSlotId": 8,
+                        "startDate": "15:00",
+                        "endDate": "16:00"
+                    },
+                    {
+                        "timeSlotId": 9,
+                        "startDate": "16:00",
+                        "endDate": "17:00"
+                    }
+                ],
+                "appointmentSlotId": 1,
+                "startDate": "MONDAY 2019-02-14T08:00",
+                "endDate": "SATURDAY 2019-02-19T17:00",
+                "taxAgent": {
+                    "agentName": "Frank",
+                    "taxAgentId": 1
+                },
+                "numberOfTaxAgents": 10,
+                "types": null
+            }
+        ],
+        "customer": {
+            "customerName": "Anand",
+            "totalAppointment": 0
+        },
+        "status": null,
+        "reason": null,
+        "cancelReason": null,
+        "appointmentType": {
+            "appointmentTypeId": "1",
+            "appointmentServiceType": "TIER1:Maximize tax deductions and credits",
+            "duration": 45
+        },
+        "id": 1
+    }
